@@ -1,7 +1,7 @@
 # SDP-Quantum-OR
 This repository contains commented Jupyter Notebooks and Python files that accompany
 a paper titled ``Five Starter Pieces: Quantum Information Science via Semi-definite
-Programs``, [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+Programs``, [arXiv:2112.08276](http://arxiv.org/abs/2112.08276)
 by Vikesh Siddhu and Sridhar Tayur. These files are briefly
 described below.
 
